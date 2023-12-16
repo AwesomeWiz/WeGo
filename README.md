@@ -7,3 +7,5 @@ The rates will be brought down far below to what is being charged right now and 
 
 The users themselves will be driving the cars thereby attracting the interest of driving 
 enthusiast.
+
+N.B : Due to our limited app development knowledge, we could only provide the glimpses of the application currently. 
