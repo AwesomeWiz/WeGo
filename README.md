@@ -1,5 +1,5 @@
 # WeGo
-WeGo is an mobile application that provides easy and cost efficient rental system.
+WeGo is a mobile application that provides easy and cost efficient rental system.
 
 We aim to create a software application that will provide an easy interface for a sustainable, cost efficient and an easily accessible mode of transport.
 
